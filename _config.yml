@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: DevCurveup
 email: scoopup@kakao.com
 url: https://devcurve.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -32,28 +32,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  #copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
+  #- title: facebook
+  #  url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/Devcurve
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 35-1, Seomyeonmunhwa-ro,
+  - line: Busanjin-gu, Busan, Republic of Korea
+
+
+
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
