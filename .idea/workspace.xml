@@ -7,7 +7,10 @@
     <list default="true" id="b1f967c6-1a09-4c96-ae7d-aec83f5a6e19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/community.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/community.html" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/_includes/css/community_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/community_styles.css" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689590441069</updated>
-      <workItem from="1689590442689" duration="18092000" />
+      <workItem from="1689590442689" duration="19276000" />
     </task>
     <servers />
   </component>
