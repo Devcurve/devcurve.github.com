@@ -2,9 +2,9 @@
     margin: 0 auto; /* Center the section horizontally */
     display: flex; /*가로 정렬*/
     justify-content: space-between;
-    width: 100%; /* Set width to 80% of the parent element */
-    height: 500px; /* Set height to 500 pixels */
-    padding: 20px 0;
+    width: 100%; /* Set width to 100% of the parent element */
+    height: 530px; /* Set height to 500 pixels */
+    /*padding: 20px 0;*/
 }
 #slider {
     display: flex; /*가로 정렬*/
