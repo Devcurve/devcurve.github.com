@@ -39,11 +39,16 @@
     cursor: pointer;
     user-select: none;
 }
+
+
+
+/*
 .stars {
     display: inline-block;
     font-size: 24px;
     color: #888;
 }
+
 .stars:before {
     content: "☆☆☆☆☆";
 }
@@ -60,7 +65,7 @@
 .stars:after {
     color: #ffc700;
 }
-
+*/
 .star {
     width: 16px;
     height: 16px;
