@@ -11,8 +11,8 @@
     scroll-behavior: smooth;
 }
 
-#posts-container {
-    display: flex;
+.post-container {
+    display: flex; /*가로 정렬*/
     flex-direction: row;
     justify-content: start;   /* 이 부분은 필요에 따라 조절. */
     align-items: start;   /* 이 부분은 필요에 따라 조절. */
@@ -21,7 +21,6 @@
 
 
 .post {
-
     flex: 0 0 calc(100% / 5);
     width: 350px;    /* 배경의 가로 크기 */
     height: 530px;   /* 배경의 세로 크기 */
@@ -34,6 +33,7 @@
     font-size: 16px;
     padding: 10px;
 }
+
 .post img {
     width: 250px;   /* Adjusted the image width */
     height: 250px;  /* Adjusted the image height */
