@@ -10,6 +10,14 @@
     width: 80%;
     scroll-behavior: smooth;
 }
+
+#posts-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
 .post {
 
     flex: 0 0 calc(100% / 5);
