@@ -14,7 +14,9 @@
 #posts-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: start;   /* 이 부분은 필요에 따라 조절. */
+    align-items: start;   /* 이 부분은 필요에 따라 조절. */
+    flex-wrap: nowrap;    /* 이 부분은 필요에 따라 조절. */
 }
 
 
