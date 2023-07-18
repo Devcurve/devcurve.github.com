@@ -1,11 +1,13 @@
 #community {
-    display: flex;
+    margin: 0 auto; /* Center the section horizontally */
+    display: flex; /*가로 정렬*/
     justify-content: space-between;
-    width: 100%;
+    width: 100%; /* Set width to 80% of the parent element */
+    height: 500px; /* Set height to 500 pixels */
     padding: 20px 0;
 }
 #slider {
-    display: flex;
+    display: flex; /*가로 정렬*/
     overflow-x: hidden;
     width: 80%;
     scroll-behavior: smooth;
