@@ -66,28 +66,3 @@
     position: relative;
     left: 25px;
 }
-
-/*
-.stars {
-    display: inline-block;
-    font-size: 24px;
-    color: #888;
-}
-
-.stars:before {
-    content: "☆☆☆☆☆";
-}
-.stars[data-rating="1"]:after { content: "\2605"; }
-.stars[data-rating="2"]:after { content: "\2605\2605"; }
-.stars[data-rating="3"]:after { content: "\2605\2605\00BD"; }
-.stars[data-rating="4"]:after { content: "\2605\2605\2605"; }
-.stars[data-rating="5"]:after { content: "\2605\2605\2605\00BD"; }
-.stars[data-rating="6"]:after { content: "\2605\2605\2605\2605"; }
-.stars[data-rating="7"]:after { content: "\2605\2605\2605\2605\00BD"; }
-.stars[data-rating="8"]:after { content: "\2605\2605\2605\2605\2605"; }
-.stars[data-rating="9"]:after { content: "\2605\2605\2605\2605\2605\00BD"; }
-.stars[data-rating="10"]:after { content: "\2605\2605\2605\2605\2605\2605"; }
-.stars:after {
-    color: #ffc700;
-}
-*/
